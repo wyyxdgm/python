@@ -5,6 +5,8 @@ ROOTPATH=`pwd`
 if [ ! -d ocr ]; then
 	git clone https://github.com/mateogianolio/ocr.git
 fi
-
+if [ ! -d ocr/node_modules ]; then
+	cd ocr && npm install && cd -
+fi
 echo 'success init!'
 exit 0;
