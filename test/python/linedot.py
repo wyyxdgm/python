@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# 
+# 
+
 import numpy as np
 import pylab as pl
 x1 = [1, 2, 3, 4, 5]# Make x, y arrays for each graph

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# 
+# 
 import numpy as np
 import pylab as pl
 # make an array of random numbers with a gaussian distribution with

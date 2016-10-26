@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# 
+# 
+
 import numpy as np
 import pylab as pl
 x = [1, 2, 3, 4, 5]# Make an array of x values
